@@ -29,7 +29,6 @@ Mobile app to provide all generic public information of selected city of India.I
 
 ### Libraries used for ImageHandling:
 * Glide
-* Picasso
 
 ### Libraries used for GeoLocation:
 * Google Play Services Location
