@@ -9,7 +9,7 @@ Mobile app to provide all generic public information of selected city of India.I
 ## Installation in-built process :
 
 * Import the project from github by using:  
-"git clone https://github.com/ayushdubey1998/TeamFortius.git" without the quotes.
+"git clone https://github.com/prajwal72/My-city-SIH-2019-official.git" without the quotes.
 
 * Open Android-Studio and select Import Project and select the cloned project from github.
 
